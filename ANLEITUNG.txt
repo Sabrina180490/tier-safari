@@ -1,0 +1,13 @@
+TIER-SAFARI – Anleitung
+
+1. GitHub-Konto auf github.com anlegen (kostenlos).
+2. Neues öffentliches Repository mit dem Namen tier-safari erstellen.
+3. Alle Dateien AUS diesem Ordner (nicht den Ordner selbst) über Add file > Upload files hochladen und Commit changes wählen.
+4. Settings > Pages > Build and deployment: Deploy from a branch, Branch main, Folder /(root), Save.
+5. Warten, bis GitHub Pages die Adresse anzeigt: https://DEIN-NAME.github.io/tier-safari/
+6. Diese Adresse öffnen, auf QR-Codes erstellen & drucken klicken. Die QR-Codes sollten automatisch erstellt werden. Falls nicht, Adresse oben einfügen und auf QR-Codes erstellen klicken.
+7. Einen Code am Handy testen, dann die Seite drucken (A4, Hochformat). QR-Codes ausschneiden und im Turnsaal verteilen.
+
+WICHTIG: Die Karten sind ohne Google und ohne Anmeldung für Teilnehmende erreichbar. Zum Scannen ist Internet nötig. Die QR-Code-Erstellung verwendet eine externe JavaScript-Bibliothek von cdnjs; die Tierkarten selbst brauchen keine externen Ressourcen.
+
+START: Die Gruppen starten bei unterschiedlichen Tieren. Jede Karte zeigt die Bewegung und das nächste Tier. Nach 12 Stationen ist die Runde geschlossen.
